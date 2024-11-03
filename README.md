@@ -15,8 +15,8 @@ Repositori ini berisi aplikasi Todo List sederhana yang dibuat dengan React. Apl
 ## SCREENSHOTS
 ![HalamanUtama](image/halaman_utama.png)
 
-#
-Referensi Project: https://youtu.be/9wiWzu_tRB0?si=rFC_TlyfZKXL4GRc
+# Referensi Project 
+https://youtu.be/9wiWzu_tRB0?si=rFC_TlyfZKXL4GRc
 
 # React + Vite
 
