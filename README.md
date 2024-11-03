@@ -15,6 +15,9 @@ Repositori ini berisi aplikasi Todo List sederhana yang dibuat dengan React. Apl
 ## SCREENSHOTS
 ![HalamanUtama](image/halaman_utama.png)
 
+#
+Referensi Project: https://youtu.be/9wiWzu_tRB0?si=rFC_TlyfZKXL4GRc
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
